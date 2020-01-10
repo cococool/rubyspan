@@ -1,5 +1,7 @@
 # RubySpan
 
+This project is not maintained any more. See [this](https://github.com/mljli/rubyspan/pull/1) for more information.
+
 #### Min SDK 21 (Android 5.0 Lollipop)
 
 RubySpan is an attempt to display [ruby annotation](https://www.w3.org/TR/ruby/) along with text using Android TextView. Compared to the WebView solution, using RubySpan with TextView is a lot faster, flexible and more friendly to layouts. Current implementation focuses on displaying furigana on Japanese kanji. But you can easilly adapt it to your application. The minimal API supported is API 21 (Android 5.0 Lollipop). Since layouting text is a complex thing, there're still some bugs and the result is not perfect if you compare it with that produced by the browser or WebView.
